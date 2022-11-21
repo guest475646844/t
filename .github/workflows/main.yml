@@ -1,3 +1,5 @@
+# Copied from https://github.com/burhanrashid52/SampleWorkflow/blob/main/.github/workflows/manual_generate_apk.yml
+
 name: Manual Generate APK
 on:
   workflow_dispatch:
